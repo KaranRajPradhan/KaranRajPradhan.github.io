@@ -1,3 +1,3 @@
-FILE=/esp32/joovv-firmware.bin
+FILE=/esp32/IoTReady_SmartScale.bin
 VERSION=3
 INTERVAL=10
